@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\uc12_projetopp\\formrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\formrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormTELA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:UC12_projetoPP\\FormTELA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\uc12_projetopp\\formtela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\formtela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:UC12_projetoPP\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\uc12_projetopp\\formrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\formrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\uc12_projetopp\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|c:\\users\\user\\source\\repos\\uc12_projetopp\\uc12_projetopp\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\uc12_projetopp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:uc12_projetopp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\ClassSQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABF6AE-947C-4DFF-8127-0E6D3E30855C}|UC12_projetoPP\\UC12_projetoPP.csproj|solutionrelative:UC12_projetoPP\\ClassSQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 217,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRELATORIO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormRELATORIO.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormRELATORIO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormRELATORIO.cs",
+              "RelativeToolTip": "UC12_projetoPP\\FormRELATORIO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:39:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRELATORIO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormRELATORIO.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormRELATORIO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormRELATORIO.cs [Design]",
+              "RelativeToolTip": "UC12_projetoPP\\FormRELATORIO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:36:05.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCADASTRAR.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormCADASTRAR.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormCADASTRAR.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormCADASTRAR.cs",
+              "RelativeToolTip": "UC12_projetoPP\\FormCADASTRAR.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwKQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:16:12.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCADASTRAR.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormCADASTRAR.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormCADASTRAR.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormCADASTRAR.cs [Design]",
+              "RelativeToolTip": "UC12_projetoPP\\FormCADASTRAR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:12:02.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTELA.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormTELA.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormTELA.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormTELA.cs",
+              "RelativeToolTip": "UC12_projetoPP\\FormTELA.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:41:00.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTELA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormTELA.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\FormTELA.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\FormTELA.cs [Design]",
+              "RelativeToolTip": "UC12_projetoPP\\FormTELA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:29:33.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\Form1.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\Form1.cs [Design]",
+              "RelativeToolTip": "UC12_projetoPP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:12:21.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\Form1.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\Form1.cs",
+              "RelativeToolTip": "UC12_projetoPP\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:12:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassSQL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\ClassSQL.cs",
+              "RelativeDocumentMoniker": "UC12_projetoPP\\ClassSQL.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UC12_projetoPP\\UC12_projetoPP\\ClassSQL.cs",
+              "RelativeToolTip": "UC12_projetoPP\\ClassSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:46:56.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
